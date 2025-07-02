@@ -1,5 +1,6 @@
 import { ArrowUp } from "lucide-react"
 
+// main footer
 export const Footer = () => {
 
     return (<footer className="text-glow py-12 bg-card relative border-t border-border mt-12 pt-8 flex flex-wrap justify-between items-center backdrop-blur-md"> 
