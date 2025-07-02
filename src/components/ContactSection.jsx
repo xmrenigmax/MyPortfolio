@@ -94,7 +94,7 @@ export const ContactSection = () => {
                         </div>
                     </div>
                     <div className="bg-card p-8 rounded-lg shadow-xs text-glow gradient-border">
-                        <h3 className="text-2xl font-semibold mb-6 "> Send a message</h3>
+                        <h3 className="text-2xl font-semibold mb-6 "> Send a message: inactive currently</h3>
 
                         <form className="space-y-6">
                             <div>

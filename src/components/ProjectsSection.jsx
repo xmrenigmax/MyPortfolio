@@ -139,7 +139,7 @@ export const ProjectsSection = () => {
                 </div>
                 {/* Github Account Button */}
                 <div className="text-center m-12">
-                    <a className="cosmic-button w-fit flex items-center mx-auto gap-2" target='https://github.com/xmrenigmax' href="https://github.com/xmrenigmax">
+                    <a className="cosmic-button w-fit flex items-center mx-auto gap-2" target="_blank" href="https://github.com/xmrenigmax">
                         Check My Github <ArrowRight/>
                     </a>
                 </div>
