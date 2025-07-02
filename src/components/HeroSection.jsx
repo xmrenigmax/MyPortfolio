@@ -13,7 +13,7 @@ export const HeroSection = () => {
             </h1>
             <p className="opacity-0 text-glow text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto opacity-0 animate-fade-in-delay3">
               An aspiring software engineer currently studying at Bournemouth University.
-              with high aspirations, and specialisation in back-end development.
+              with high aspirations, and specialisation in back-end development!
             </p>
             <div className="pt-4 opacity-0 animate-fade-in-delay4">
               <a href="#projects" className='cosmic-button text-glow'>
