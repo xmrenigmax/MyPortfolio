@@ -30,7 +30,7 @@ const project = [
         image: "/projects/project1.jpeg", 
         tags: ['React', 'TypeScript', 'Tailwind CSS', 'Node.js', 'SQL (Oracle)', 'Docker', 'Git & GitHub', 'Agile/Scrum'], 
         demoURL: "#", // TODO: Replace with actual demo URL
-        githubURL: '#' // TODO: Replace with actual GitHub URL
+        githubURL: 'https://github.com/xmrenigmax/AgileTaskManager' 
     },
     {
         id: 2, 
