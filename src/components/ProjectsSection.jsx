@@ -29,7 +29,7 @@ const project = [
         description: "A Jira-like task management system with user stories, sprints, and burndown charts.", 
         image: "/projects/project1.jpeg", 
         tags: ['React', 'TypeScript', 'Tailwind CSS', 'Node.js', 'SQL (Oracle)', 'Docker', 'Git & GitHub', 'Agile/Scrum'], 
-        demoURL: "#", // TODO: Replace with actual demo URL
+        demoURL: "https://agile-task-manager-client.vercel.app/home",
         githubURL: 'https://github.com/xmrenigmax/AgileTaskManager' 
     },
     {
