@@ -26,9 +26,9 @@ const project = [
     {
         id: 1, 
         title: "Agile Task Manager (Scrum Board)", 
-        description: "A Jira-like task management system with user stories, sprints, and burndown charts.", 
+        description: "A SCRUM task management system with users, teams, sprints, and burndown charts along with authentication.", 
         image: "/projects/project1.jpeg", 
-        tags: ['React', 'TypeScript', 'Tailwind CSS', 'Node.js', 'SQL (Oracle)', 'Docker', 'Git & GitHub', 'Agile/Scrum'], 
+        tags: ['React', 'TypeScript', 'Tailwind CSS', 'Node.js', 'Postgres', 'Docker', 'Git & GitHub', 'Agile/Scrum','CORS','Frontend & Backend'], 
         demoURL: "https://agile-task-manager-client.vercel.app/home",
         githubURL: 'https://github.com/xmrenigmax/AgileTaskManager' 
     },
