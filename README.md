@@ -35,5 +35,4 @@ src/
 ├── pages/        # Page sections (About, Projects, etc)
 ├── assets/          # Images, icons, fonts
 ├── lib/           # Custom React hooks
-├── utils/           # Helper functions
 └── styles/          # Global CSS/Tailwind config
