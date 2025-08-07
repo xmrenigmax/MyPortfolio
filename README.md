@@ -32,8 +32,8 @@ https://my-portfolio-gold-five-45.vercel.app/
 ```bash
 src/
 ├── components/      # Reusable UI components
-├── sections/        # Page sections (About, Projects, etc)
+├── pages/        # Page sections (About, Projects, etc)
 ├── assets/          # Images, icons, fonts
-├── hooks/           # Custom React hooks
+├── lib/           # Custom React hooks
 ├── utils/           # Helper functions
 └── styles/          # Global CSS/Tailwind config
