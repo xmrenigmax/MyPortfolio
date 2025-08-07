@@ -1,4 +1,4 @@
-# Modern Developer Portfolio 
+# My Portfolio V2.0
 ![React](https://img.shields.io/badge/React-18.2-blue) 
 ![Vite](https://img.shields.io/badge/Vite-4.0-orange)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-3.3-06B6D4)
