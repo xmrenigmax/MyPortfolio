@@ -34,12 +34,12 @@ const project = [
     },
     {
         id: 2, 
-        title: "Readme Generator", 
+        title: "Readme Generator V1.0", 
         description: "Automates GitHub README.md creation with a form (project name, badges, etc.).", 
         image: "/projects/project2.jpeg", 
-        tags: ['React', 'JavaScript', 'Node.js', 'HTML/CSS', 'Git & GitHub', 'VS Code'], 
-        demoURL: "#", // TODO: Replace with actual demo URL
-        githubURL: '#' // TODO: Replace with actual GitHub URL
+        tags: ['python', 'JavaScript', 'Node.js', 'CLI', 'Git & GitHub', 'VS Code'], 
+        demoURL: "https://github.com/xmrenigmax/ReadMeGenerator", 
+        githubURL: 'https://github.com/xmrenigmax/ReadMeGenerator' 
     },
     {
         id: 3, 
